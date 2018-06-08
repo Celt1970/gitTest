@@ -10,6 +10,7 @@ import Foundation
 
 class AbstractClass {
     var absField = "field"
+    var newField = "some data"
     
     func absMethod() {
         print(absField)
