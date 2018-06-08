@@ -13,7 +13,6 @@
 		AA6AAF1A20CAAB7E008EC6DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA6AAF1920CAAB7E008EC6DE /* Assets.xcassets */; };
 		AA6AAF1D20CAAB7E008EC6DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA6AAF1B20CAAB7E008EC6DE /* LaunchScreen.storyboard */; };
 		AA6AAF2520CAE89E008EC6DE /* AbstractClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA6AAF2420CAE89E008EC6DE /* AbstractClass.swift */; };
-		AA6AAF2720CB016F008EC6DE /* AnotherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA6AAF2620CB016F008EC6DE /* AnotherViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		AA6AAF1C20CAAB7E008EC6DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA6AAF1E20CAAB7E008EC6DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AA6AAF2420CAE89E008EC6DE /* AbstractClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbstractClass.swift; sourceTree = "<group>"; };
-		AA6AAF2620CB016F008EC6DE /* AnotherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnotherViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +59,6 @@
 				AA6AAF1220CAAB7D008EC6DE /* AppDelegate.swift */,
 				AA6AAF1420CAAB7D008EC6DE /* ViewController.swift */,
 				AA6AAF2420CAE89E008EC6DE /* AbstractClass.swift */,
-				AA6AAF2620CB016F008EC6DE /* AnotherViewController.swift */,
 				AA6AAF1620CAAB7D008EC6DE /* Main.storyboard */,
 				AA6AAF1920CAAB7E008EC6DE /* Assets.xcassets */,
 				AA6AAF1B20CAAB7E008EC6DE /* LaunchScreen.storyboard */,
@@ -143,7 +140,6 @@
 			files = (
 				AA6AAF1520CAAB7D008EC6DE /* ViewController.swift in Sources */,
 				AA6AAF2520CAE89E008EC6DE /* AbstractClass.swift in Sources */,
-				AA6AAF2720CB016F008EC6DE /* AnotherViewController.swift in Sources */,
 				AA6AAF1320CAAB7D008EC6DE /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
