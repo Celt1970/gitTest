@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     let message = "Hello Git!"
+    var someClassInstance = AbstractClass()
 
     override func viewDidLoad() {
         super.viewDidLoad()
