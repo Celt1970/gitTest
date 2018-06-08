@@ -9,6 +9,8 @@
 import UIKit
 
 class AnotherViewController: UIViewController {
+    var name: String = "jdjdjdj"
+    var age: Int = 123
 
     override func viewDidLoad() {
         super.viewDidLoad()
