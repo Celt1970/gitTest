@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     
     let message = "Hello Git!"
     var someClassInstance = AbstractClass()
+    var number = 12
 
     override func viewDidLoad() {
         super.viewDidLoad()

@@ -12,6 +12,7 @@ class AbstractClass {
     var absField = "field"
     var newField = "some data"
     var thirdField = "third field"
+    var fourth = 56
     
     func absMethod() {
         print(absField)
